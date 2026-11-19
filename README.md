@@ -4,14 +4,14 @@ Hacettepe Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim ve **[Finsi
 
 Finside, yatırıma yeni başlayanlar için yapay zekâ destekli bir finansal okuryazarlık uygulaması. Al-sat önerisi vermez; haberi, bilançoyu ve portföyü **neden** sorusuyla anlatır. 15 Ekim 2026'dan beri App Store ve Google Play'de yayında.
 
-- 🤖 Şu an **NVIDIA × YTU Startup House AI Engineer Bootcamp**'teyim: LLM iç yapısı, production RAG, tool calling ve MCP, ajan sistemleri
-- 📱 Mobil uygulamaları fikirden mağazaya kadar götürmeyi seviyorum: Flutter, Supabase, CI/CD
-- 🧩 ACM Hacettepe'de ulusal algoritma yarışması **HUPROG'26**'nın organizasyonunda yer aldım
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/beytullahzeydyildiz) · beytullahyildiz@hacettepe.edu.tr
+-  Şu an **NVIDIA × YTU Startup House AI Engineer Bootcamp**'teyim: LLM iç yapısı, production RAG, tool calling ve MCP, ajan sistemleri
+-  Mobil uygulamaları fikirden mağazaya kadar götürmeyi seviyorum: Flutter, Supabase, CI/CD
+-  ACM Hacettepe'de ulusal algoritma yarışması **HUPROG'26**'nın organizasyonunda yer aldım
+-  Bana ulaş: [LinkedIn](https://www.linkedin.com/in/beytullahzeydyildiz) · beytullahyildiz@hacettepe.edu.tr
 
 ---
 
-### 🚀 Finside'da neler yaptım
+### Finside'da neler yaptım
 
 > Kaynak kodu kapalı; aşağıdakiler ürünün teknik tarafında yürüttüğüm işler.
 
@@ -21,11 +21,11 @@ Finside, yatırıma yeni başlayanlar için yapay zekâ destekli bir finansal ok
 - **Haber hattı:** Birden çok kaynaktan haber toplayan, ön eleyen ve her habere bir kez yapay zekâ özeti üreten zamanlanmış bir hat (pg_cron).
 - **Abonelik ve yayın:** RevenueCat ile Free/Pro ve sunucu tarafı kota; Codemagic ile iOS ve Android CI/CD.
 
-📲 [Finside'ı indir](https://finside.app/links)
+ [Finside'ı indir](https://finside.app/links)
 
 ---
 
-### 🛠️ Kullandığım teknolojiler
+###  Kullandığım teknolojiler
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
